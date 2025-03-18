@@ -1,6 +1,6 @@
 💻 MPI PARALLEL PROCESSING ASSIGNMENTS:-
 
-This repository contains solutions to parallel programming problems using MPI (Message Passing Interface) in C. Each program demonstrates core MPI functions, parallelism, and performance comparison where required.
+This repository contains solutions to parallel programming problems using MPI (Message Passing Interface) in cpp. Each program demonstrates core MPI functions, parallelism, and performance comparison where required.
 
 📂 Contents
 Below are the problems and brief descriptions of the solutions available in this repository:
