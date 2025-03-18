@@ -1,4 +1,4 @@
-💻 MPI Parallel Programming Assignments
+💻 MPI PARALLEL PROCESSING ASSIGNMENTS:-
 This repository contains solutions to parallel programming problems using MPI (Message Passing Interface) in C. Each program demonstrates core MPI functions, parallelism, and performance comparison where required.
 
 📂 Contents
@@ -17,7 +17,7 @@ Description: Implements the Odd-Even transposition sort algorithm in parallel us
 
 ✅ 4. Heat Distribution Simulation
 Description: Simulates heat distribution across a 2D grid using parallel computation.
-]
+
 ✅ 5. Parallel Reduction using MPI
 Description: Demonstrates parallel reduction operation (sum) using MPI_Reduce.
 
